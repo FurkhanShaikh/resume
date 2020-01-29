@@ -3,7 +3,7 @@ A single-page, one-column resume for software developers. It uses the base latex
 Forked from https://github.com/sb2nov/resume
 
 ### Preview
-![Resume Screenshot](/resume_preview.png)
+![Resume Screenshot](/Resume_preview.png)
 
 ### License
 Format is MIT
